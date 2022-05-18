@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avtar_Chandra
 - 👀 I’m interested in C,C++,Python,Database,Linux and OOPs
 - 🌱 I’m currently Learning everything to be a skilled Software Engineer
-- 📫 How to reach me : avi4each@gmail.com,linkedin.com/in/avi4each
+- 📫 How to reach me : avi4each@gmail.com, linkedin.com/in/avi4each
 
 <!---
 avi4each/avi4each is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
