@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avtar_Chandra
-- 👀 I’m interested in C,C++,Python,Database and OOPs
+- 👀 I’m interested in C,C++,Python,Database,Linux and OOPs
 - 🌱 I’m currently learning Everything to be a skilled Software Engineer
 - 📫 How to reach me : avi4each@gmail.com,linkedin.com/in/avi4each
 
